@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>第一篇博客(介绍一下博客是如何搭建的(1)^_^)</title>
+    <link href="/2021/04/24/hello-world/"/>
+    <url>/2021/04/24/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2021/04/24/9DfJlygnio7UCsI.jpg" alt="Hexp &amp;&amp; GitHub"></p><h4 id="在目前博客类的网站中，以wordpress和Hexo等为热火的在线博客架构-之前我尝试过wordpress-是一个php为后端语言写出来的后台框架-怎么说呢，优点是可视化的操作页面，可能大大降低了搭建博客的时间成本-当然也是有一些坑的-在此不过多的做解释"><a href="#在目前博客类的网站中，以wordpress和Hexo等为热火的在线博客架构-之前我尝试过wordpress-是一个php为后端语言写出来的后台框架-怎么说呢，优点是可视化的操作页面，可能大大降低了搭建博客的时间成本-当然也是有一些坑的-在此不过多的做解释" class="headerlink" title="在目前博客类的网站中，以wordpress和Hexo等为热火的在线博客架构,之前我尝试过wordpress,是一个php为后端语言写出来的后台框架,怎么说呢，优点是可视化的操作页面，可能大大降低了搭建博客的时间成本,当然也是有一些坑的,在此不过多的做解释."></a>在目前博客类的网站中，以<code>wordpress</code>和<code>Hexo</code>等为热火的在线博客架构,之前我尝试过<code>wordpress</code>,是一个<code>php</code>为后端语言写出来的后台框架,怎么说呢，优点是可视化的操作页面，可能大大降低了搭建博客的时间成本,当然也是有一些坑的,在此不过多的做解释.</h4><h4 id="这次为什么选择用Hexo呢，一个是想使用起来github这个网站-第二个是Hexo的架构吸引了我-Hexo后台语言使用node-js来开发的-Node-js-所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。然后就是一键部署-只需一条指令即可部署到-GitHub-Pages-Heroku或其他平台-下篇博客主要讲解如何搭建-可能文字有点长，等待我更新哈，我会用图文的方式，最简单的教会大家"><a href="#这次为什么选择用Hexo呢，一个是想使用起来github这个网站-第二个是Hexo的架构吸引了我-Hexo后台语言使用node-js来开发的-Node-js-所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。然后就是一键部署-只需一条指令即可部署到-GitHub-Pages-Heroku或其他平台-下篇博客主要讲解如何搭建-可能文字有点长，等待我更新哈，我会用图文的方式，最简单的教会大家" class="headerlink" title="这次为什么选择用Hexo呢，一个是想使用起来github这个网站,第二个是Hexo的架构吸引了我,Hexo后台语言使用node.js来开发的,Node.js 所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。然后就是一键部署,只需一条指令即可部署到 GitHub Pages, Heroku或其他平台,下篇博客主要讲解如何搭建,可能文字有点长，等待我更新哈，我会用图文的方式，最简单的教会大家."></a>这次为什么选择用<code>Hexo</code>呢，一个是想使用起来<code>github</code>这个网站,第二个是<code>Hexo</code>的架构吸引了我,<code>Hexo</code>后台语言使用<code>node.js</code>来开发的,<code>Node.js</code> 所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。然后就是一键部署,只需一条指令即可部署到 <code>GitHub Pages</code>, <code>Heroku</code>或其他平台,下篇博客主要讲解如何搭建,可能文字有点长，等待我更新哈，我会用图文的方式，最简单的教会大家.</h4>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
